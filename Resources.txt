@@ -1,0 +1,30 @@
+# COURSES #
+- MOOC Java Programming from the University of Helsinki: http://java-programming.mooc.fi/
+
+- Java for Complete Beginners: https://www.udemy.com/java-tutorial
+	accompanying site CaveOfProgramming: http://caveofprogramming.com/
+
+- Derek Banas' Java Playlist: https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19
+	accompanying site NewThinkTank: http://newthinktank.com/
+
+- Hyperskill is a fairly new resource from Jetbrains (the maker of IntelliJ): https://hi.hyperskill.org/
+
+
+# DOCUMENTATION #
+
+- The official Documentation: http://docs.oracle.com/javase/
+
+- The official Java Tutorials: http://www.oracle.com/technetwork/java/index-jsp-135888.html
+
+- Our community resources thread: https://www.reddit.com/r/learnjava/comments/md1loc/community_resources/
+
+
+
+# DATA STRUCTURES AND ALGORITHMS #
+
+- "Algorithms" by Robert Sedgewick and Kevin Wayne - Princeton University
+
+Part I:  https://www.coursera.org/learn/algorithms-part1
+Part II: https://www.coursera.org/learn/algorithms-part2
+
+Coursebook - Algorithms 4th Edition: http://algs4.cs.princeton.edu/home/

@@ -1,0 +1,16 @@
+🚀 Excited to kick off Day 1 of hashtag#100DaysOfCode! Today, I dove into data structures with Java, focusing on Arrays and ArrayLists. 🛠️
+
+Here’s what I covered:
+- Understanding Arrays and ArrayLists in Java
+- Key methods for manipulation
+- Exploring Wrapper Classes
+
+For implementing these basics and related methods:
+1. Finding the minimum and maximum elements in an array
+2. Reversing an array
+3. Swapping elements within an array
+
+It feels great to start this journey, and I'm eager to build my skills further. 💪💻 If you're also coding or learning something new, feel free to share your experiences or tips! Let's grow together! 🌟
+
+hashtag#100DaysOfCode hashtag#100DaysOfCodeChitkara hashtag#Arrays hashtag#JavaDSA
+hashtag#Java hashtag#DataStructures hashtag#CodingJourney hashtag#Learning hashtag#Developer
