@@ -1,0 +1,9 @@
+🚀 Day 3 of hashtag#100DaysOfCode! Today, I tackled some LeetCode problems.🛠️
+
+Here’s what I covered:
+
+LeetCode Problems:
+(#1): Two Sum 
+(#1380): Lucky Numbers in a Matrix 
+
+hashtag#100DaysOfCode hashtag#100DaysOfCodeChitkara hashtag#LeetCode hashtag#Java hashtag#DataStructures hashtag#CodingJourney hashtag#Learning hashtag#Developer
