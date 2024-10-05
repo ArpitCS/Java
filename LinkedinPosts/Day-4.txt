@@ -1,0 +1,14 @@
+🚀 Day 4 of hashtag#100DaysOfCode! Today, I dove into the Selection Sort algorithm and solved LeetCode problem 136! 🛠️
+
+Here’s what I covered:
+
+Selection Sort Algorithm:
+- Understood the concept of selecting the smallest element in an array and swapping it into the correct position.
+- Implemented the algorithm step-by-step in Java.
+
+LeetCode Problem:
+#136: Single Number – found the unique element in an array where every other element appears twice.
+
+💻 If you’re also coding or facing any challenges, let’s connect and share our journeys! 🌟
+
+hashtag#100DaysOfCode hashtag#100DaysOfCodeChitkara hashtag#SelectionSort hashtag#LeetCode hashtag#Java hashtag#DataStructures hashtag#CodingJourney hashtag#Learning hashtag#Developer
