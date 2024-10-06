@@ -1,0 +1,15 @@
+🚀 Day 5 of hashtag#100DaysOfCode! Today, I put my understanding of the Selection Sort algorithm to the test by solving some basic questions. 🛠️
+
+Here’s what I accomplished:
+
+Selection Sort Practice:
+- Reviewed and solidified my implementation of the Selection Sort algorithm in Java.
+- Practiced by solving some straightforward problems that required the application of the algorithm.
+
+LeetCode Problems:
+- #88: Merge Sorted Array – Merged two sorted arrays into one, reinforcing my sorting skills!
+- #169: Majority Element – Identified the element that appears more than half the time in an array, utilizing my sorting knowledge to help with the solution.
+
+💻 If you're also coding or tackling challenges, let’s connect and inspire each other! 🌟
+
+hashtag#100DaysOfCode hashtag#100DaysOfCodeChitkara hashtag#SelectionSort hashtag#LeetCode hashtag#Java hashtag#DataStructures hashtag#CodingJourney hashtag#Learning hashtag#Developer
