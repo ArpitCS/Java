@@ -1,0 +1,19 @@
+🚀 Day 8 of hashtag#100DaysOfCode! Today, I focused on developing an "Online Store Application" using C++. 🛒✨
+
+Project Highlights:
+- Key Concepts Implemented:
+ 1. Object-Oriented Design
+ 2. Inheritance
+ 3. Polymorphism
+ 4. Error Handling
+ 5. File Handling
+
+Working on this project has been an invaluable experience, allowing me to apply various C++ programming concepts in a real-world context. It's rewarding to see how these principles come together to create a functional software application!
+
+💡 I gained insights into structuring code and managing complexity, and I'm excited to continue refining my work.
+
+Check out the project on GitHub: [BeStore: Online Store Application](https://lnkd.in/gJ7RNQeG)
+
+Let’s keep coding and growing together! 💻✨
+
+hashtag#100DaysOfCode hashtag#CPlusPlus hashtag#OOP hashtag#SoftwareDevelopment hashtag#CodingJourney hashtag#Learning hashtag#Developer hashtag#GitHub
